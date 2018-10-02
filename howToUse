@@ -1,0 +1,7 @@
+i) Keep client.java and server.java under the same package
+
+ii) Add external mongo db jar file to your project library. (which I have provided in the project)
+
+iii) Create database "networking" and collection "GuiChat" for it store data in the database.
+
+iv) For any other problem, ping me at kamal250j@gmail.com
