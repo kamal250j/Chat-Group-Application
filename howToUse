@@ -4,4 +4,6 @@ ii) Add external mongo db jar file which acts as the driver to your project libr
 
 iii) Create database "networking" and collection "GuiChat" for it store data in the database.
 
-iv) For any other problem, ping me at kamal250j@gmail.com
+iv) You can check the number of people connected to the main server or the people who left the group, on the server.java terminal.
+
+v) For any other problem, ping me at kamal250j@gmail.com
